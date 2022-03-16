@@ -1,0 +1,48 @@
+* {
+  color: fuchsia;
+}
+
+body {
+  background-image: url(Red_Fox.jpg);
+  
+}
+
+p {
+  color: aquamarine;
+  background-color: salmon;
+  font-size: 20pt;
+  font-weight: bolder;
+  font-family: "Times New Roman";
+}
+
+.into_para {
+  color: brown;
+  background-color: rgba(0, 0, 0, 0.8);
+  font-family: monospace;
+}
+
+#my_name_para {
+  color: darkseagreen;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  position: absolute;
+  top: 250px;
+}
+
+h1 {
+  font-size: 40pt;
+  text-align: center;
+}
+
+#snow_fox_img {
+  width: 500px;
+  height: 500px;
+  padding-left: 250px;
+  padding-bottom: 100px;
+  padding-top: 80px;
+  padding-right: 10px;
+  background-color: blue; 
+  border: 10px solid black;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  margin: 150px 5px 100px 25px;
+}
